@@ -12,7 +12,7 @@
 - 🌱 I'm in the 6th year of high school  
   
 
-- ❓ I am specializing in Web Development, but I also have Python knowledge   
+- ❓ I am specializing in Web Development, but I also have Python and Unity knowledge   
   
 
 - ⚡ Fun fact: I use tabs over spaces  
