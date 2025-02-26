@@ -9,7 +9,7 @@
 - 🔭 I’m currently studying on [Platzi](https://platzi.com/p/cesarchalimond/) and [Nucba](https://www.nucba.com.ar)  
   
 
-- 🌱 I'm in the 7th year of high school  
+- 🌱 I’m currently in my first year of Systems Analyst studies at IES (Instituto de Educación Superior).
   
 
 - ❓ I am specializing in Web Development, but I also have Python and Unity knowledge   
